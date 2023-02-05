@@ -1,3 +1,5 @@
+# Collins Wanga
+
 def wallis(pairs):
     acc = 1
     num = 2
